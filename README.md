@@ -1,7 +1,7 @@
 # Project Java
 
-Como minha primeira linguagem de programação para estudo aprofundado, estou utilizando Java para desenvolver e aprimorar minhas habilidades em programação.
+As my first programming language for in-depth study, I am using Java to develop and improve my programming skills.
 
-Tenho bastante interesse na área de APIs, integrações e desenvolvimento de back-end, por isso escolhi Java como uma das principais linguagens para me especializar.
+I have a strong interest in APIs, integrations, and back-end development, which is why I chose Java as one of the main languages to specialize in.
 
-Neste repositório, estou reunindo os exercícios, projetos e práticas que venho desenvolvendo durante meus estudos, com o objetivo de evoluir continuamente meus conhecimentos e minha capacidade de desenvolver aplicações em Java.
+In this repository, I am collecting the exercises, projects, and practices I have been working on throughout my studies, with the goal of continuously improving my knowledge and my ability to develop applications using Java.
